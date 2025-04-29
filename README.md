@@ -1,5 +1,7 @@
 # MCP SSH/SFTP 服务器
 
+[English](README_EN.md) | 简体中文
+
 这是一个基于 Model Context Protocol (MCP) 实现的 SSH 和 SFTP 服务器集合，提供了远程服务器操作和文件传输的功能。
 
 ## 项目结构
